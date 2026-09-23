@@ -104,7 +104,7 @@ document.querySelectorAll('.video-toggle').forEach(btn=>btn.addEventListener('cl
 
 // V5.1 — WhatsApp is the closing step of the funnel.
 // Add the number in international format, digits only. Example Mexico: 52 + 10-digit number.
-const WHATSAPP_NUMBER='';
+const WHATSAPP_NUMBER='525516098648';
 (()=>{
   const options=[...document.querySelectorAll('.wa-option')];
   const preview=document.getElementById('waPreview');
